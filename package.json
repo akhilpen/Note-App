@@ -1,0 +1,23 @@
+{
+  "name": "note-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilpen/Note-App.git"
+  },
+  "author": "Sai Akhil Pendyala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilpen/Note-App/issues"
+  },
+  "homepage": "https://github.com/akhilpen/Note-App#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "yargs": "^6.6.0"
+  }
+}
